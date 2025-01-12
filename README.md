@@ -24,7 +24,7 @@ result_pressure: Calculated pressure difference between inlet and outlet.
 
 output: Final analysis result indicating "leak" or "no leak."
 
-DASHBOARD:
+**DASHBOARD:**
 
 
 https://github.com/user-attachments/assets/63998e74-f318-4b84-929f-09d1020c7f57
