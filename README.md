@@ -5,14 +5,23 @@ Comprehensive Inspection and Analysis of Water Supply Distribution Lines" is a m
 **About Dataset:** This dataset is focused on the inspection and analysis of underground water distribution pipelines. It includes data on water volume, pressure, and flow rate at both inlet and outlet points, along with calculated discrepancies in volume and pressure. The dataset is used to identify potential leaks in the pipelines, with the output column indicating whether a leak is present ("leak") or not ("no leak"). This information supports efficient monitoring and maintenance of water distribution systems.
 
 in_volume: Volume of water entering the pipeline.
+
 out_volume: Volume of water exiting the pipeline.
+
 consumption: Difference between input and output volumes, indicating water usage.
+
 in_pressure: Pressure of water entering the pipeline.
+
 out_pressure: Pressure of water exiting the pipeline.
+
 in_flowrate: Flow rate of water at the pipeline's inlet.
+
 out_flowrate: Flow rate of water at the pipeline's outlet.
+
 result_volume: Calculated volume discrepancy between input and output.
+
 result_pressure: Calculated pressure difference between inlet and outlet.
+
 output: Final analysis result indicating "leak" or "no leak."
 
 DASHBOARD:
